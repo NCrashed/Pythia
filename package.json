@@ -1,0 +1,9 @@
+{
+	"name": "pythia",
+	"description": "Distributed testing system",
+	"copyright": "Copyright © 2014, Anton Gushcha",
+	"authors": ["NCrashed"],
+	"license": "MIT",
+	"dependencies": {
+	}
+}
